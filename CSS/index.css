@@ -59,6 +59,7 @@
 }
 .article-open {
   animation: open 1s ease-in-out 0s normal 1 forwards running;
+  overflow: scroll;
 }
 @keyframes open {
   0% {
