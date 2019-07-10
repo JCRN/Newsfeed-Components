@@ -85,6 +85,14 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'New Research Findings Show Dogs > Cats',
+    date: 'Jul 10th, 2019',
+    firstParagraph: `A new study published in the New England Journal of Vetinary Medicine, with reasearch having been conducted by the non-profit 
+          Dogs Conducting Research Against Cats (DCRAC), has proven that yes, dogs > cats (r=.99).`,
+    secondParagraph: `When asked who, what, when, where, why, and how, Kona Sheppherd, the study's lead researcher responded, "Woof, woof woof woof woof. Woof! Grrr.. woof woof woof" then unexpectedly dashed off in pursuit of a squirrel.`,
+    thirdParagraph: `When the same questions were posed to a nearby feline, the feline made a derogatory gesture then sauntered off, leaving this reporter baffled and a little incensed.`
   }
 ];
 
