@@ -50,7 +50,7 @@ function createMenu(items) {
 
   // Add classes
   menu.classList.add('menu')
-  
+    
   // Define, get / set list item elements
   let menuListItem = null
   items.forEach(element => {
